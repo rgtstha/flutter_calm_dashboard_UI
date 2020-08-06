@@ -1,6 +1,17 @@
-# featherwebs_assignment
+# Flutter Notes Application
 
-A new Flutter application.
+This is simple Flutter UI project for learning purpose. Some basic functionalities of flutters are used in this applications like:-\
+  - Use of third party package.
+  - Creating model
+  - Loading data from a list
+  - Using ListView builder
+
+
+
+## Screenshots
+<img src="/screenshots/1.jpg" height="470" >   <img src="/screenshots/2.jpg" height="470" >
+
+
 
 ## Getting Started
 
